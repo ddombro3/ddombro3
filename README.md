@@ -85,7 +85,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions" />
     </td>
     <td align="center">
-      <img src="https://www.zaproxy.org/favicon.ico" width="40" title="OWASP ZAP" />
+      <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" title="OWASP ZAP" />
       <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sqlmap_logo.png" width="65" title="sqlmap" />
       <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" title="Burp Suite Community Edition" />
       <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/RuntimeScripts/Windows/support/ghidra.ico" width="40" title="Ghidra" />
