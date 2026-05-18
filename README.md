@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Ralph</h1>
+<h1 align="center">Hey there 👋, I'm Drake</h1>
 
 <p align="center">
   <b>Systems & Security Developer</b><br>
@@ -23,13 +23,13 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **high-performance C++ security tooling**
-- 🐧 I’m building experience with **Linux, Docker, Apache, Cloudflare, and server hardening**
-- ⚙️ I’m interested in **Linux kernel development, system calls, kernel modules, and low-level OS internals**
-- 🚀 I’m exploring **CUDA, CUDA-Q, GPU computing, and randomness/security analysis**
-- 🛡️ I’m interested in **DevSecOps, malware analysis, container security, forensics, and defensive security research**
-- 🧠 I enjoy projects involving **C++, systems programming, networking, security automation, dynamic programming, and linear algebra**
-- 📚 Currently improving my skills in **modern C++, CUDA, Symfony, GitHub Actions, Linux internals, and applied security engineering**
+- I’m currently working on **high-performance C++ security tooling**
+- I’m building experience with **Linux, Docker, Apache, Cloudflare, and server hardening**
+- I’m interested in **Linux kernel development, system calls, kernel modules, and low-level OS internals**
+- I’m exploring **CUDA, CUDA-Q, GPU computing, and randomness/security analysis**
+- I’m interested in **DevSecOps, malware analysis, container security, forensics, and defensive security research**
+- I enjoy projects involving **C++, systems programming, networking, security automation, dynamic programming, and linear algebra**
+- Currently improving my skills in **modern C++, CUDA, GitHub Actions, Linux internals, and applied security engineering**
 
 ---
 
