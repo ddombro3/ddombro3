@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/GitHub-ddombro3-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="YOUR_LINKEDIN_URL_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-Ralph%20Peter-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
