@@ -22,11 +22,11 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **high-performance C++ security tooling**
-- 🐧 I’m building experience with **Linux, Docker, Apache, Cloudflare, and server hardening**
-- 🛡️ I’m interested in **DevSecOps, malware analysis, container security, and defensive security research**
-- ⚙️ I enjoy projects involving **C++, systems programming, networking, and security automation**
-- 📚 Currently improving my skills in **C++, CUDA, Symfony, GitHub Actions, and applied security engineering**
+-  I’m currently working on **high-performance C++ security tooling**
+-  I’m building experience with **Linux, Docker, Apache, Cloudflare, and server hardening**
+-  I’m interested in **DevSecOps, malware analysis, container security, and defensive security research**
+-  I enjoy projects involving **C++, systems programming, networking, and security automation**
+-  Currently improving my skills in **C++, CUDA, Symfony, GitHub Actions, and applied security engineering**
 
 ---
 
