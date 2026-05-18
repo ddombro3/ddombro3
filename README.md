@@ -64,7 +64,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-      <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/J_(programming_language)_icon.png" width="40" title="J Programming Language" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="SQL / MySQL" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" title="C#" />
