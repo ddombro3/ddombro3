@@ -57,42 +57,38 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" />
-      <img src="https://img.shields.io/badge/Assembly-MIPS-555555?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
-      <img src="https://img.shields.io/badge/J-Programming-8A2BE2?style=for-the-badge" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" />
-      <img src="https://img.shields.io/badge/Q%23-Quantum-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" title="C" />
+      <img src="https://mips.com/wp-content/uploads/2023/12/MIPS_GF_rgb.svg" height="32" title="MIPS Assembly" />
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" title="Shell / Bash" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+      <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/J_(programming_language)_icon.png" width="40" title="J Programming Language" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="SQL / MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" title="C#" />
+      <img src="https://img.shields.io/badge/Q%23-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" title="Q#" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" />
-      <br>
-      <img src="https://img.shields.io/badge/Void%20Linux-478061?style=for-the-badge&logo=voidlinux&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" title="Ubuntu" />
+      <img src="https://cdn.simpleicons.org/voidlinux/478061" width="40" title="Void Linux" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="40" title="Apache" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" title="Cloudflare" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="40" title="CMake" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge" />
-      <br>
-      <img src="https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge" />
-      <br>
-      <img src="https://img.shields.io/badge/Burp%20Suite%20Community-FF6633?style=for-the-badge" />
-      <br>
-      <img src="https://img.shields.io/badge/Ghidra-2E3440?style=for-the-badge" />
+      <img src="https://www.zaproxy.org/favicon.ico" width="40" title="OWASP ZAP" />
+      <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sqlmap_logo.png" width="65" title="sqlmap" />
+      <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" title="Burp Suite Community Edition" />
+      <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/RuntimeScripts/Windows/support/ghidra.ico" width="40" title="Ghidra" />
     </td>
   </tr>
 </table>
