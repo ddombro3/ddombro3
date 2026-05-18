@@ -59,43 +59,40 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" />
+      <img src="https://img.shields.io/badge/Assembly-MIPS-555555?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
+      <img src="https://img.shields.io/badge/J-Programming-8A2BE2?style=for-the-badge" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" />
+      <img src="https://img.shields.io/badge/Q%23-Quantum-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" />
       <br>
-      <img src="https://img.shields.io/badge/Linux%20Kernel-Development-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <br>
-      <img src="https://img.shields.io/badge/System%20Calls-Linux%20Internals-2E3440?style=for-the-badge" />
-      <br>
-      <img src="https://img.shields.io/badge/Kernel%20Modules-C%20/%20Linux-555555?style=for-the-badge&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Void%20Linux-478061?style=for-the-badge&logo=voidlinux&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+      <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge" />
       <br>
-      <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=zap&logoColor=white" />
+      <img src="https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge" />
       <br>
-      <img src="https://img.shields.io/badge/Web%20Security-2E3440?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Burp%20Suite%20Community-FF6633?style=for-the-badge" />
       <br>
-      <img src="https://img.shields.io/badge/Container%20Security-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Forensics-Incident%20Response-8A2BE2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Ghidra-2E3440?style=for-the-badge" />
     </td>
   </tr>
 </table>
@@ -105,10 +102,8 @@
 ### GPU / High-Performance Computing
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CUDA-GPU%20Computing-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA--Q-Quantum%20SDK-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parallel%20Computing-C++%20/%20CUDA-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance%20Engineering-C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA--Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 ---
