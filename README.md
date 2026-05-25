@@ -10,7 +10,7 @@
 <p align="center">
   I'm a Computer Science graduate focused on building practical systems and security projects.
   My work includes Dockerized web applications, Linux networking/security labs, secure Symfony/PHP development,
-  container forensics, and C++ tooling for binary analysis, malware similarity, and defensive security research.
+  container forensics, and C++ tooling for binary analysis, malware similarity, defensive security research, and high-speed cryptocurrency trading applications.
 </p>
 
 <p align="center">
