@@ -15,7 +15,7 @@
 
 <p align="center">
   <b>Where I'm looking to go:</b>
-  Infra SWE, Systems security, DevSecOps, detection engineering, secure software engineering,
+  Infra SWE, Systems security, secure software engineering,
   high-performance C++ security tooling, and low-level Linux development.
 </p>
 
