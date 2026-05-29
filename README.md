@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Systems & Security Developer</b><br>
-  C++ • Linux • Docker • CUDA • Kernel Development • Web Security • DevSecOps
+  C++ • Linux • Docker • CUDA • Kernel Development
 </p>
 
 <hr>
