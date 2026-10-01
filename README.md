@@ -1,35 +1,33 @@
 <h1 align="center">Hey there 👋, I'm Drake</h1>
 
 <p align="center">
-  <b>Systems & Security Developer</b><br>
-  C++ • Linux • Docker • CUDA • Kernel Development
+  <b>Software Engineer | C++ Systems Development | Linux | Docker | Secure Software Engineering</b>
 </p>
 
 <hr>
 
 <p align="center">
-  I'm a Computer Science graduate focused on building practical systems and security projects.
-  My work includes Dockerized web applications, Linux networking/security labs, secure Symfony/PHP development,
-  container forensics, and C++ tooling for binary analysis, malware similarity, defensive security research, and high-speed cryptocurrency trading applications.
+  I'm a Computer Science graduate focused on building practical software systems, backend infrastructure, and security-focused applications.
+  My work includes C++ systems projects, backend applications, Linux tooling, containerized development,
+  blockchain infrastructure experiments, and secure software engineering.
 </p>
 
 <p align="center">
-  <b>Where I'm looking to go:</b>
-  Infra SWE, Systems security, secure software engineering,
-  high-performance C++ security tooling, and low-level Linux development.
+  <b>Interested in:</b>
+  systems software, backend infrastructure, high-performance C++, secure software engineering,
+  and Linux development.
 </p>
 
 ---
 
 ### About Me
 
-- I’m currently working on **high-performance C++ security tooling**
-- I’m building experience with **Linux, Docker, Apache, Cloudflare, and server hardening**
-- I’m interested in **Linux kernel development, system calls, kernel modules, and low-level OS internals**
-- I’m exploring **CUDA, CUDA-Q, GPU computing, and randomness/security analysis**
-- I’m interested in **DevSecOps, malware analysis, container security, forensics, and defensive security research**
-- I enjoy projects involving **C++, systems programming, networking, security automation, dynamic programming, and linear algebra**
-- Currently improving my skills in **modern C++, CUDA, GitHub Actions, Linux internals, and applied security engineering**
+- Building high-performance C++ systems projects focused on binary analysis and software tooling
+- Experienced with **Linux, Docker, backend development, and infrastructure troubleshooting**
+- Interested in **systems programming, performance engineering, and secure software development**
+- Exploring **CUDA, GPU computing, and low-level optimization techniques**
+- Building projects involving **C++, networking, automation, and applied security engineering**
+- Continuously developing projects in **modern C++, Linux systems, and software infrastructure**
 
 ---
 
@@ -97,8 +95,8 @@
 ### GPU / High-Performance Computing
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA--Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA%20(Exploration)-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA--Q%20(Exploration)-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 ---
@@ -121,14 +119,14 @@
 
 ### Featured Project Areas
 
-- **High-Performance C++ Malware Similarity Engine**  
+- **High-Performance C++ Binary Similarity Engine**  
   Defensive binary similarity tooling using C++, feature extraction, entropy analysis, dynamic programming, and vector similarity.
 
 - **ABET Tools Platform**  
   Dockerized PHP/Symfony web application with authentication, email workflows, security headers, Cloudflare/Apache deployment, and DevSecOps improvements.
 
-- **Linux Kernel / Systems Development**  
-  Kernel modules, custom system call work, Linux process internals, synchronization, and low-level OS experimentation.
+- **Linux Systems Development**  
+  Linux process internals, synchronization, systems programming, and low-level OS experimentation.
 
 - **CUDA / CUDA-Q Security Research Lab**  
   GPU-accelerated randomness analysis, simulation experiments, and high-performance C++/CUDA testbenches.
