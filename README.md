@@ -67,11 +67,13 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" title="C#" />
       <img src="https://img.shields.io/badge/Q%23-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" title="Q#" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" title="Ubuntu" />
-      <img src="https://cdn.simpleicons.org/voidlinux/478061" width="40" title="Void Linux" />
-    </td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" title="Ubuntu" />
+  <img src="https://cdn.simpleicons.org/voidlinux/478061" width="40" title="Void Linux" />
+  <img src="https://cdn.simpleicons.org/llvm" width="40" title="LLVM" />
+  <img src="https://cdn.simpleicons.org/clang" width="40" title="Clang" />
+</td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
