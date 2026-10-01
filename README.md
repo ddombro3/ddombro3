@@ -9,7 +9,7 @@
 <p align="center">
   I'm a Computer Science graduate focused on building practical software systems, backend infrastructure, and security-focused applications.
   My work includes C++ systems projects, backend applications, Linux tooling, containerized development,
-  blockchain infrastructure experiments, and secure software engineering.
+  blockchain infrastructure, and secure software engineering.
 </p>
 
 <p align="center">
