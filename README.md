@@ -153,6 +153,8 @@
   <img src="https://img.shields.io/badge/Focus-High%20Performance%20Computing-00599C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Systems%20Security-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-DevSecOps-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-Parallel%20Computing-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Quantum%20Computing-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Exploring-Vulkan%20%2F%20Graphics-blueviolet?style=for-the-badge" />
 </p>
