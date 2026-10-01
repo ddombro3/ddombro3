@@ -37,7 +37,7 @@
   <a href="https://github.com/ddombro3">
     <img src="https://img.shields.io/badge/GitHub-ddombro3-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="www.linkedin.com/in/drake-dombrowski-a69698433">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
