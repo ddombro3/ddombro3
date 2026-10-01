@@ -8,7 +8,7 @@
 
 <p align="center">
   I'm a Computer Science graduate focused on building practical software systems, backend infrastructure, and security-focused applications.
-  My work includes C++ systems projects, backend applications, Linux tooling, containerized development,
+  My work includes modern C++ systems projects, backend applications, Linux tooling, containerized development,
   blockchain infrastructure, and secure software engineering.
 </p>
 
@@ -26,7 +26,7 @@
 - Experienced with **Linux, Docker, backend development, and infrastructure troubleshooting**
 - Interested in **systems programming, performance engineering, and secure software development**
 - Exploring **CUDA, GPU computing, and low-level optimization techniques**
-- Building projects involving **C++, networking, automation, and applied security engineering**
+- Building projects involving **C++ 23/26, networking, automation, and applied security engineering**
 - Continuously developing projects in **modern C++, Linux systems, and software infrastructure**
 
 ---
