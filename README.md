@@ -1,4 +1,3 @@
-<h1 align="center">Hey there 👋, I'm Drake</h1>
 
 <p align="center">
   <b>Software Engineer | C++ Systems Development | Linux | Docker | Secure Software Engineering</b>
