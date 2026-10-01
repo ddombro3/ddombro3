@@ -94,11 +94,13 @@
 
 ---
 
-### GPU / High-Performance Computing
+### GPU Computing / Graphics / VR 
 
 <p align="left">
   <img src="https://img.shields.io/badge/CUDA%20(Exploration)-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/CUDA--Q%20(Exploration)-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulkan%20(Exploration)-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL%20(Exploration)-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
 </p>
 
 ---
