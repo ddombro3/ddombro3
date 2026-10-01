@@ -72,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" title="Ubuntu" />
   <img src="https://cdn.simpleicons.org/voidlinux/478061" width="40" title="Void Linux" />
   <img src="https://cdn.simpleicons.org/llvm" width="40" title="LLVM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clang/clang-original.svg" width="40" title="Clang" />
+    <img src="https://img.shields.io/badge/Clang-Compiler-262D3A?style=for-the-badge" title="Clang" />
 </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" />
