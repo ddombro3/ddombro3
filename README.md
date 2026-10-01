@@ -1,33 +1,33 @@
 <h1 align="center">Hey there 👋, I'm Drake</h1>
 
 <p align="center">
-  <b>Software Engineer | C++ Systems Development | LLVM/Clang Tooling | Linux Internals | Secure Software Engineering</b>
+  <b>Software Engineer | C++ Systems Development | Linux | Docker | Secure Software Engineering</b>
 </p>
 
 <hr>
 
 <p align="center">
   I'm a Computer Science graduate focused on building practical software systems, backend infrastructure, and security-focused applications.
-  My work includes modern C++ systems projects, LLVM/Clang tooling, backend applications, Linux development,
-  containerized infrastructure, and secure software engineering.
+  My work includes C++ systems projects, backend applications, Linux tooling, containerized development,
+  blockchain infrastructure experiments, and secure software engineering.
 </p>
 
 <p align="center">
   <b>Interested in:</b>
-  systems software, backend infrastructure, high-performance C++, Linux internals,
-  compiler tooling, operating systems, secure software engineering, and low-level optimization.
+  systems software, backend infrastructure, high-performance C++, secure software engineering,
+  and Linux development.
 </p>
 
 ---
 
 ### About Me
 
-- Building high-performance C++ systems projects focused on binary analysis, software tooling, and performance engineering
-- Experienced with **Linux, Docker, backend development, infrastructure troubleshooting, and secure application development**
-- Interested in **systems programming, Linux internals, operating systems, kernel concepts, compiler infrastructure, and low-level software design**
-- Exploring **LLVM/Clang tooling, modern C++ standards (C++23 with selected C++26 features), GPU computing, and optimization techniques**
-- Building projects involving **C++, networking, automation, applied security engineering, and performance-focused software**
-- Continuously developing projects in **modern C++, Linux systems, compiler tooling, and software infrastructure**
+- Building high-performance C++ systems projects focused on binary analysis and software tooling
+- Experienced with **Linux, Docker, backend development, and infrastructure troubleshooting**
+- Interested in **systems programming, performance engineering, and secure software development**
+- Exploring **CUDA, GPU computing, and low-level optimization techniques**
+- Building projects involving **C++, networking, automation, and applied security engineering**
+- Continuously developing projects in **modern C++, Linux systems, and software infrastructure**
 
 ---
 
@@ -37,7 +37,7 @@
   <a href="https://github.com/ddombro3">
     <img src="https://img.shields.io/badge/GitHub-ddombro3-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/drake-dombrowski-a69698433">
+  <a href="YOUR_LINKEDIN_URL_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -53,9 +53,7 @@
     <th>DevOps / Infrastructure</th>
     <th>Security</th>
   </tr>
-
   <tr>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" title="C" />
@@ -69,15 +67,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" title="C#" />
       <img src="https://img.shields.io/badge/Q%23-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" title="Q#" />
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" title="Ubuntu" />
       <img src="https://cdn.simpleicons.org/voidlinux/478061" width="40" title="Void Linux" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/LLVM_logo.svg/1200px-LLVM_logo.svg.png" width="45" title="LLVM" />
-      <img src="https://cdn.simpleicons.org/clang/262D3A" width="40" title="Clang" />
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
@@ -86,32 +80,15 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" title="Cloudflare" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="40" title="CMake" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions" />
-      <img src="https://ninja-build.org/assets/img/ninja-logo.png" width="40" title="Ninja Build" />
     </td>
-
     <td align="center">
       <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" title="OWASP ZAP" />
       <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Sqlmap_logo.png" width="65" title="sqlmap" />
       <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" title="Burp Suite Community Edition" />
       <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/RuntimeScripts/Windows/support/ghidra.ico" width="40" title="Ghidra" />
     </td>
-
   </tr>
 </table>
----
-
-### C++ Tooling / Build Systems
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/LLVM_logo.svg/1200px-LLVM_logo.svg.png" width="45" title="LLVM" />
-  <img src="https://cdn.simpleicons.org/clang/262D3A" width="40" title="Clang" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="40" title="CMake" />
-  <img src="https://ninja-build.org/assets/img/ninja-logo.png" width="40" title="Ninja" />
-</p>
-
-<p align="left">
-  Modern C++ development using **C++23 with selected C++26 features, LLVM/Clang toolchains, CMake, Ninja, clang-format, and clang-tidy**
-</p>
 
 ---
 
@@ -143,13 +120,13 @@
 ### Featured Project Areas
 
 - **High-Performance C++ Binary Similarity Engine**  
-  High-performance binary analysis tooling using **modern C++ (C++23 with selected C++26 features), LLVM/Clang tooling, feature extraction, entropy analysis, multithreading, memory-mapped files, dynamic programming, and vector similarity.**
+  Defensive binary similarity tooling using C++, feature extraction, entropy analysis, dynamic programming, and vector similarity.
 
 - **ABET Tools Platform**  
   Dockerized PHP/Symfony web application with authentication, email workflows, security headers, Cloudflare/Apache deployment, and DevSecOps improvements.
 
 - **Linux Systems Development**  
-  Linux process internals, synchronization, operating system concepts, kernel concepts, systems programming, and low-level experimentation.
+  Linux process internals, synchronization, systems programming, and low-level OS experimentation.
 
 - **CUDA / CUDA-Q Security Research Lab**  
   GPU-accelerated randomness analysis, simulation experiments, and high-performance C++/CUDA testbenches.
@@ -165,11 +142,10 @@
 ### Currently Building Toward
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-C++23%2F26%20Systems-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-LLVM%20Tooling-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Linux%20Internals-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Operating%20Systems-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Systems%20Security-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DevSecOps-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-C++%20Security%20Tooling-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Linux%20Internals-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-High%20Performance%20Computing-00599C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-Parallel%20Computing-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Exploring-Quantum%20Computing-512BD4?style=for-the-badge" />
