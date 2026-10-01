@@ -145,11 +145,14 @@
 ### Currently Building Toward
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Systems%20Security-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-DevSecOps-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-C++%20Security%20Tooling-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Modern%20C%2B%2B%20Systems-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Linux%20Internals-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-High%20Performance%20Computing-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-LLVM%2FClang%20Tooling-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-High%20Performance%20Computing-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Systems%20Security-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DevSecOps-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-Parallel%20Computing-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exploring-Quantum%20Computing-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-Vulkan%20%2F%20Graphics-blueviolet?style=for-the-badge" />
 </p>
