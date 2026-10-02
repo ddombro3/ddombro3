@@ -21,7 +21,7 @@
 
 ### About Me
 
-- Building high-performance C++ systems projects focused on binary analysis and software tooling
+- Building high-performance C++ systems projects focused on performance engineering, low-latency computing, and high-throughput software.
 - Experienced with **Linux, Docker, backend development, and infrastructure troubleshooting**
 - Interested in **systems programming, performance engineering, and secure software development**
 - Exploring **CUDA, GPU computing, and low-level optimization techniques**
