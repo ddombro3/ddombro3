@@ -123,7 +123,10 @@
 ### Featured Project Areas
 
 - **High-Performance C++ Binary Similarity Engine**  
-  Defensive binary similarity tooling using C++, feature extraction, entropy analysis, dynamic programming, and vector similarity.
+  High-performance binary analysis tooling using modern C++, feature extraction, entropy analysis, multithreading, memory-mapped files, and vector similarity.
+
+- **Low-Latency Solana RPC Price & Trading Engine**  
+  Solana pricing engine using JavaScript, Helius JSON-RPC, and on-chain liquidity reserves to retrieve pricing in ~180 ms and surface market changes ahead of third-party aggregator APIs, with modular paper-trading and risk-management logic.
 
 - **ABET Tools Platform**  
   Dockerized PHP/Symfony web application with authentication, email workflows, security headers, Cloudflare/Apache deployment, and DevSecOps improvements.
